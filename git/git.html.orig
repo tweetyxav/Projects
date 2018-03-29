@@ -9,14 +9,13 @@
     <body>
         <!-- Corps de la page -->
         <citation auteur="Neil Armstrong1" date="21/07/1969">
-        <citation auteur="Neil Armstrong22" date="21/07/1969">
-C'double merge en paralelle 1.
+C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
 </citation>
 
  <h1>titre 1</h1>
-    <p>double merge en paralelle 2 :</p>
+    <p>Voici mes animaux préférés2 :</p>
     <ol>
-      <li><strong>Animaux 11</strong></li>
+      <li><strong>Animaux 1</strong></li>
       <li>Animaux 3</li>
       <li>Animaux 2</li>
     </ol>
